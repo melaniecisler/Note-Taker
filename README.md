@@ -1,2 +1,15 @@
 # Note-Taker
 Express App (Add, Save, Delete, List notes)
+
+Express Note Taker
+![](slide1.png)
+README.md
+Note Taker:
+
+Description: Runs in localhost:8080 in your browser. Press Notes button to begin.
+
+Hosted in Heroku at: ?
+
+Run: 
+
+Installation: npm install, node server.js
