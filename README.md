@@ -4,6 +4,7 @@ Express App (Add, Save, Delete, List notes)
 Express Note Taker
 ![](slide1.PNG)
 ![](slide2.PNG)
+![](slide3.PNG)
 README.md
 Note Taker:
 
