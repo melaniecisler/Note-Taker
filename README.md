@@ -1,8 +1,12 @@
 # Note-Taker
 
-
+Homepage
 ![](slide1.PNG)
+
+Notes Listed
 ![](slide2.PNG)
+
+Item details
 ![](slide3.PNG)
 
  # Description: 
