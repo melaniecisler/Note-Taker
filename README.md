@@ -27,5 +27,4 @@ For users that need to keep track of a lot of information, it's easy to forget o
 In Heroku at: https://vast-thicket-98696.herokuapp.com/ 
 
 # Installation: 
-npm install
-node server.js
+'npm install' & and then 'node server.js'
