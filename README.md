@@ -10,7 +10,7 @@ Note Taker:
 
 Description: Runs in localhost:8080 in your browser. Press Notes button to begin.
 
-Hosted in Heroku at: ?
+Hosted in Heroku at: https://vast-thicket-98696.herokuapp.com/ 
 
 Run: 
 
